@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade/proprietary/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/zte/blade/proprietary/qmuxd:system/bin/qmuxd \
     vendor/zte/blade/proprietary/akmd2:system/bin/akmd2 \
+    vendor/zte/blade/proprietary/proximity.init:system/bin/proximity.init \
     vendor/zte/blade/proprietary/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/zte/blade/proprietary/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/zte/blade/proprietary/libdiag.so:system/lib/libdiag.so \
