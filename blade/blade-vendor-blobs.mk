@@ -16,11 +16,6 @@
 
 # All the blobs necessary for blade
 PRODUCT_COPY_FILES += \
-    vendor/zte/blade/proprietary/ar6000.ko:system/wifi/ar6000.ko \
-    vendor/zte/blade/proprietary/regcode:system/wifi/regcode \
-    vendor/zte/blade/proprietary/data.patch.hw2_0.bin:system/wifi/data.patch.hw2_0.bin \
-    vendor/zte/blade/proprietary/athwlan.bin.z77:system/wifi/athwlan.bin.z77 \
-    vendor/zte/blade/proprietary/athtcmd_ram.bin:system/wifi/athtcmd_ram.bin \
     vendor/zte/blade/proprietary/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/zte/blade/proprietary/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/zte/blade/proprietary/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
