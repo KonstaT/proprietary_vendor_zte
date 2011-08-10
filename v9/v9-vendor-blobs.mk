@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/v9/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/zte/v9/proprietary/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/zte/v9/proprietary/qmuxd:system/bin/qmuxd \
-    vendor/zte/v9/proprietary/abtfilt:system/bin/abtfilt \
     vendor/zte/v9/proprietary/akmd2:system/bin/akmd2 \
     vendor/zte/v9/proprietary/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/zte/v9/proprietary/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
