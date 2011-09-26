@@ -74,6 +74,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade/proprietary/libomx_avcdec_sharedlibrary.so:system/lib/libomx_avcdec_sharedlibrary.so \
     vendor/zte/blade/proprietary/libomx_m4vdec_sharedlibrary.so:system/lib/libomx_m4vdec_sharedlibrary.so \
     vendor/zte/blade/proprietary/libomx_mp3dec_sharedlibrary.so:system/lib/libomx_mp3dec_sharedlibrary.so \
-    vendor/zte/blade/proprietary/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so
-
-
+    vendor/zte/blade/proprietary/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so \
+    vendor/zte/blade/proprietary/libloc.so:system/lib/libloc.so \
+    vendor/zte/blade/proprietary/libloc.so:obj/lib/libloc.so \
+    vendor/zte/blade/proprietary/libloc-rpc.so:system/lib/libloc-rpc.so \
+    vendor/zte/blade/proprietary/libcommondefs.so:system/lib/libcommondefs.so
