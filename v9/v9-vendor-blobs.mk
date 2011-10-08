@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/v9/proprietary/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/zte/v9/proprietary/libdss.so:system/lib/libdss.so \
     vendor/zte/v9/proprietary/libauth.so:system/lib/libauth.so \
-    vendor/zte/v9/proprietary/lights.msm7k.so:system/lib/hw/lights.msm7k.so \
     vendor/zte/v9/proprietary/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/v9/proprietary/liboemcamera.so:obj/lib/liboemcamera.so \
     vendor/zte/v9/proprietary/libmmjpeg.so:system/lib/libmmjpeg.so \
