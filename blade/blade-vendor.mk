@@ -1,4 +1,4 @@
-# Copyright (C) 2010 The Android Open Source Project
+# Copyright (C) 2011 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,11 +16,8 @@
 
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
-     LiveWallpapers \
-     LiveWallpapersPicker \
-     MagicSmokeWallpapers \
-     VisualizationWallpapers \
-     librs_jni
+    LiveWallpapers \
+    LiveWallpapersPicker
 
 # Publish that we support the live wallpaper feature.
 PRODUCT_COPY_FILES := \
