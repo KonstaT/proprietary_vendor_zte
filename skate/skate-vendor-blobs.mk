@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/skate/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/zte/skate/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/zte/skate/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    vendor/zte/skate/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/zte/skate/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/zte/skate/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/zte/skate/proprietary/lib/libgsl.so:system/lib/libgsl.so \
