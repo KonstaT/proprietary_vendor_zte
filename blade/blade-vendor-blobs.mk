@@ -56,4 +56,5 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade/proprietary/lib/libloc.so:system/lib/libloc.so \
     vendor/zte/blade/proprietary/lib/libloc-rpc.so:system/lib/libloc-rpc.so \
     vendor/zte/blade/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
-    vendor/zte/blade/proprietary/bin/akmd2:system/bin/akmd2
+    vendor/zte/blade/proprietary/bin/akmd2:system/bin/akmd2 \
+    vendor/zte/blade/proprietary/bin/abtfilt:system/bin/abtfilt
