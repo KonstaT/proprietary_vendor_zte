@@ -42,6 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/zte/blade/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
     vendor/zte/blade/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/zte/blade/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/zte/blade/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/zte/blade/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/zte/blade/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
