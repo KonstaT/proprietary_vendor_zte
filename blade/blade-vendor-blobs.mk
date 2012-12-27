@@ -82,10 +82,4 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade/proprietary/lib/libomx_avcdec_sharedlibrary.so:system/lib/libomx_avcdec_sharedlibrary.so \
     vendor/zte/blade/proprietary/lib/libomx_m4vdec_sharedlibrary.so:system/lib/libomx_m4vdec_sharedlibrary.so \
     vendor/zte/blade/proprietary/lib/libomx_mp3dec_sharedlibrary.so:system/lib/libomx_mp3dec_sharedlibrary.so \
-    vendor/zte/blade/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so \
-    vendor/zte/blade/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
-    vendor/zte/blade/proprietary/lib/libOmxrv9Dec.so:system/lib/libOmxrv9Dec.so \
-    vendor/zte/blade/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
-    vendor/zte/blade/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/zte/blade/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
-    vendor/zte/blade/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so
+    vendor/zte/blade/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so
