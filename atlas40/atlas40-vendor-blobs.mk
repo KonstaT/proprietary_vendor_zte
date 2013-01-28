@@ -24,8 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/atlas40/proprietary/bin/rild:system/bin/rild \
     vendor/zte/atlas40/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/zte/atlas40/proprietary/bin/wpa_cli:system/bin/wpa_cli \
-    vendor/zte/atlas40/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/zte/atlas40/proprietary/etc/BCM4330B1_002.001.032.0518.0520.hcd:system/etc/BCM4330B1_002.001.032.0518.0520.hcd \
     vendor/zte/atlas40/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/zte/atlas40/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
