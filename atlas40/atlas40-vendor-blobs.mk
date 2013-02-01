@@ -90,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libmvs.so:system/lib/libmvs.so \
     vendor/zte/atlas40/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/zte/atlas40/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/zte/atlas40/proprietary/lib/libnetmonitor.so:system/lib/libnetmonitor.so \
     vendor/zte/atlas40/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/atlas40/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
@@ -119,8 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/zte/atlas40/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/zte/atlas40/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
-    vendor/zte/atlas40/proprietary/lib/libpdapi.so:system/lib/libpdapi.so \
-    vendor/zte/atlas40/proprietary/lib/libpdsm_atl.so:system/lib/libpdsm_atl.so \
     vendor/zte/atlas40/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/zte/atlas40/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/zte/atlas40/proprietary/lib/libqdp.so:system/lib/libqdp.so \
@@ -141,7 +138,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/zte/atlas40/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/zte/atlas40/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
-    vendor/zte/atlas40/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/zte/atlas40/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
     vendor/zte/atlas40/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/zte/atlas40/proprietary/wifi/ath6kl_sdio.ko:system/wifi/ath6kl_sdio.ko \
     vendor/zte/atlas40/proprietary/wifi/cfg80211.ko:system/wifi/cfg80211.ko
