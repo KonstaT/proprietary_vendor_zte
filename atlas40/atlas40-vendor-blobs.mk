@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/zte/atlas40/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/zte/atlas40/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/zte/atlas40/proprietary/bin/hostapd:system/bin/hostapd \
     vendor/zte/atlas40/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zte/atlas40/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/atlas40/proprietary/bin/rild:system/bin/rild \
