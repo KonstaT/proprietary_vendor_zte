@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/zte/atlas40/proprietary/bin/akmd8962_new:system/bin/akmd8962_new \
-    vendor/zte/atlas40/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/zte/atlas40/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/zte/atlas40/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zte/atlas40/proprietary/bin/hostapd:system/bin/hostapd \
@@ -25,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/atlas40/proprietary/bin/rild:system/bin/rild \
     vendor/zte/atlas40/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/zte/atlas40/proprietary/etc/BCM4330B1_002.001.032.0518.0520.hcd:system/etc/BCM4330B1_002.001.032.0518.0520.hcd \
     vendor/zte/atlas40/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/zte/atlas40/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/zte/atlas40/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin \
