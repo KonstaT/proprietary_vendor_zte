@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/zte/atlas40/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/zte/atlas40/proprietary/lib/libcm.so:system/lib/libcm.so \
-    vendor/zte/atlas40/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/zte/atlas40/proprietary/lib/libDiagService.so:system/lib/libDiagService.so \
     vendor/zte/atlas40/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
@@ -68,16 +67,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/zte/atlas40/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/zte/atlas40/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/zte/atlas40/proprietary/lib/libgps.so:system/lib/libgps.so \
-    vendor/zte/atlas40/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/zte/atlas40/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
     vendor/zte/atlas40/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/zte/atlas40/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
     vendor/zte/atlas40/proprietary/lib/libidl.so:system/lib/libidl.so \
-    vendor/zte/atlas40/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
-    vendor/zte/atlas40/proprietary/lib/libloc_api-rpc-qc.so:system/lib/libloc_api-rpc-qc.so \
-    vendor/zte/atlas40/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/zte/atlas40/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so \
     vendor/zte/atlas40/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/zte/atlas40/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
