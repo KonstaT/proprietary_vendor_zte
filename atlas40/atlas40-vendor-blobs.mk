@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/zte/atlas40/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/zte/atlas40/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/zte/atlas40/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/zte/atlas40/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/zte/atlas40/proprietary/lib/libchromatix_mt9e013_preview.so:system/lib/libchromatix_mt9e013_preview.so \
     vendor/zte/atlas40/proprietary/lib/libchromatix_mt9p012_preview.so:system/lib/libchromatix_mt9p012_preview.so \
