@@ -21,9 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/zte/atlas40/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/zte/atlas40/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    vendor/zte/atlas40/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/zte/atlas40/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/zte/atlas40/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/zte/atlas40/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/zte/atlas40/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/zte/atlas40/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
@@ -43,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/zte/atlas40/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
+    vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAdpcmDec.so:system/lib/libOmxAdpcmDec.so \
@@ -66,7 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
-    vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/zte/atlas40/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/zte/atlas40/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/zte/atlas40/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
