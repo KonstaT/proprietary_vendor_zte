@@ -37,10 +37,11 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libchromatix_ov9726_preview.so:system/lib/libchromatix_ov9726_preview.so \
     vendor/zte/atlas40/proprietary/lib/libchromatix_s5k3e2fx_preview.so:system/lib/libchromatix_s5k3e2fx_preview.so \
     vendor/zte/atlas40/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
-    vendor/zte/atlas40/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/atlas40/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/zte/atlas40/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/zte/atlas40/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/atlas40/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/zte/atlas40/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
