@@ -41,6 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/zte/atlas40/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/atlas40/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/zte/atlas40/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/zte/atlas40/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/atlas40/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
