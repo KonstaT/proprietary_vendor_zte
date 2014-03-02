@@ -49,6 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
+    vendor/zte/atlas40/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+    vendor/zte/atlas40/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/zte/atlas40/proprietary/lib/libOmxAdpcmDec.so:system/lib/libOmxAdpcmDec.so \
@@ -72,22 +74,15 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/zte/atlas40/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
-    vendor/zte/atlas40/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
-    vendor/zte/atlas40/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
-    vendor/zte/atlas40/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/zte/atlas40/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
-    vendor/zte/atlas40/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/zte/atlas40/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zte/atlas40/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/atlas40/proprietary/bin/rild:system/bin/rild \
     vendor/zte/atlas40/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/zte/atlas40/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/zte/atlas40/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/zte/atlas40/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/zte/atlas40/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/zte/atlas40/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/zte/atlas40/proprietary/lib/libdsm.so:system/lib/libdsm.so \
-    vendor/zte/atlas40/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
     vendor/zte/atlas40/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/zte/atlas40/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/zte/atlas40/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
@@ -96,16 +91,15 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/zte/atlas40/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/zte/atlas40/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/zte/atlas40/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/zte/atlas40/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/zte/atlas40/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
+    vendor/zte/atlas40/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/zte/atlas40/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/zte/atlas40/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/zte/atlas40/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/zte/atlas40/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/zte/atlas40/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/zte/atlas40/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
-    vendor/zte/atlas40/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/zte/atlas40/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/zte/atlas40/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/zte/atlas40/proprietary/lib/libSimCardAuth.so:system/lib/libSimCardAuth.so \
