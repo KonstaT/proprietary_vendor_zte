@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/atlas40/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/zte/atlas40/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
+    vendor/zte/atlas40/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
     vendor/zte/atlas40/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/zte/atlas40/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/zte/atlas40/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
