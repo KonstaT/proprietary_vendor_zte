@@ -80,6 +80,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/bin/rild:system/bin/rild \
     vendor/zte/atlas40/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/zte/atlas40/proprietary/lib/libauth.so:system/lib/libauth.so \
+    vendor/zte/atlas40/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/zte/atlas40/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/zte/atlas40/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/zte/atlas40/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
