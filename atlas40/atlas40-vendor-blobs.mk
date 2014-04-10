@@ -108,6 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/atlas40/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/zte/atlas40/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/zte/atlas40/proprietary/bin/akmd8962_new:system/bin/akmd8962_new \
+    vendor/zte/atlas40/proprietary/bin/proximity.init:system/bin/proximity.init \
     vendor/zte/atlas40/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/zte/atlas40/proprietary/bin/hostapd:system/bin/hostapd \
     vendor/zte/atlas40/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin \
