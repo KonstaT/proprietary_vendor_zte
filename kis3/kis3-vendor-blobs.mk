@@ -148,7 +148,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxt_native.so:system/vendor/lib/libxt_native.so \
-    vendor/zte/kis3/proprietary/lib/hw/lights.msm8610.so:system/lib/hw/lights.msm8610.so \
     vendor/zte/kis3/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/zte/kis3/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
