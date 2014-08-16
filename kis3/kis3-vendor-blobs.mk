@@ -145,9 +145,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxt_native.so:system/vendor/lib/libxt_native.so \
-    vendor/zte/kis3/proprietary/bin/port-bridge:system/bin/port-bridge \
-    vendor/zte/kis3/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/zte/kis3/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/zte/kis3/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
     vendor/zte/kis3/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
@@ -188,7 +185,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/zte/kis3/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
-    vendor/zte/kis3/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/zte/kis3/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zte/kis3/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/zte/kis3/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
