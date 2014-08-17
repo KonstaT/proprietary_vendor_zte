@@ -19,6 +19,15 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),kis3)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := com.qualcomm.location.vzw_library
+LOCAL_MODULE_TAGS := optional
+LOCAL_SRC_FILES := com.qualcomm.location.vzw_library.jar
+LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_MODULE_CLASS := JAVA_LIBRARIES
+LOCAL_MODULE_SUFFIX := $(COMMON_JAVA_PACKAGE_SUFFIX)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := qcnvitems
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := qcnvitems.jar
