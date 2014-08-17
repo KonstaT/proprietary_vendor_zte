@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
+    com.qualcomm.location.vzw_library \
     qcnvitems \
     qcrilhook
 
