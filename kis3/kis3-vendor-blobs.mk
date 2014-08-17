@@ -120,6 +120,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/zte/kis3/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/kis3/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/zte/kis3/proprietary/bin/garden_app:system/bin/garden_app \
+    vendor/zte/kis3/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/zte/kis3/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/zte/kis3/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/zte/kis3/proprietary/bin/lowi-server:system/bin/lowi-server \
@@ -128,8 +130,19 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/zte/kis3/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/zte/kis3/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
+    vendor/zte/kis3/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
+    vendor/zte/kis3/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
+    vendor/zte/kis3/proprietary/etc/flp.conf:system/etc/flp.conf \
+    vendor/zte/kis3/proprietary/etc/izat.conf:system/etc/izat.conf \
+    vendor/zte/kis3/proprietary/etc/lowi.conf:system/etc/lowi.conf \
+    vendor/zte/kis3/proprietary/etc/msap.conf:system/etc/msap.conf \
+    vendor/zte/kis3/proprietary/etc/quipc.conf:system/etc/quipc.conf \
+    vendor/zte/kis3/proprietary/etc/sap.conf:system/etc/sap.conf \
+    vendor/zte/kis3/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
+    vendor/zte/kis3/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/zte/kis3/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/zte/kis3/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/zte/kis3/proprietary/lib/libloc_xtra.so:system/lib/libloc_xtra.so \
     vendor/zte/kis3/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/zte/kis3/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
     vendor/zte/kis3/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
@@ -138,6 +151,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/zte/kis3/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/zte/kis3/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libmsapm_jni.so:system/vendor/lib/libmsapm_jni.so \
     vendor/zte/kis3/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/zte/kis3/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
     vendor/zte/kis3/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
