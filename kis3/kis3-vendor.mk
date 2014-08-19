@@ -19,19 +19,6 @@ DEVICE_PACKAGE_OVERLAYS += vendor/zte/kis3/overlay
 
 $(call inherit-product, vendor/zte/kis3/kis3-vendor-blobs.mk)
 
-# Prebuilt APKs
-PRODUCT_PACKAGES += \
-    com.qualcomm.location \
-    com.qualcomm.services.location \
-    qcrilmsgtunnel \
-    TimeService
-
-# Prebuilt jars
-PRODUCT_PACKAGES += \
-    com.qualcomm.location.vzw_library \
-    qcnvitems \
-    qcrilhook
-
 # Prebuilt vendor/libs needed for compilation
 PRODUCT_PACKAGES += \
     libtime_genoff
