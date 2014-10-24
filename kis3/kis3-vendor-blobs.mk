@@ -103,6 +103,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/zte/kis3/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/zte/kis3/proprietary/bin/charger_monitor:system/bin/charger_monitor \
+    vendor/zte/kis3/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/zte/kis3/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/zte/kis3/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/zte/kis3/proprietary/bin/qseecomd:system/bin/qseecomd \
