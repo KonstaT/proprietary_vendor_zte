@@ -32,6 +32,3 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook
 
-# Prebuilt vendor/libs needed for compilation
-PRODUCT_PACKAGES += \
-    libtime_genoff
