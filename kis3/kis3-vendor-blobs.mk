@@ -204,4 +204,5 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/zte/kis3/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/zte/kis3/proprietary/bin/time_daemon:system/bin/time_daemon \
+    vendor/zte/kis3/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/zte/kis3/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
