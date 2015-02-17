@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zte/kis3/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/zte/kis3/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/zte/kis3/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
+    vendor/zte/kis3/proprietary/lib/hw/camera.vendor.msm8610.so:system/lib/hw/camera.vendor.msm8610.so \
     vendor/zte/kis3/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/zte/kis3/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/zte/kis3/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
