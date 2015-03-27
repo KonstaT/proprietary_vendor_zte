@@ -117,8 +117,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/zte/kis3/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/zte/kis3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
-    vendor/zte/kis3/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
-    vendor/zte/kis3/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/zte/kis3/proprietary/bin/garden_app:system/bin/garden_app \
     vendor/zte/kis3/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/zte/kis3/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
