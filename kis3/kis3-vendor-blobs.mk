@@ -182,12 +182,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zte/kis3/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/kis3/proprietary/bin/radish:system/bin/radish \
-    vendor/zte/kis3/proprietary/bin/rild:system/bin/rild \
     vendor/zte/kis3/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/zte/kis3/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/zte/kis3/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/zte/kis3/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/zte/kis3/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/zte/kis3/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
