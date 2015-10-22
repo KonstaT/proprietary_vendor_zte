@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     com.qualcomm.services.location \
     qcrilmsgtunnel \
+    shutdownlistener \
     TimeService
 
 # Prebuilt jars

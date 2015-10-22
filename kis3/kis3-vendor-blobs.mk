@@ -165,7 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/zte/kis3/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/zte/kis3/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
     vendor/zte/kis3/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/zte/kis3/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/zte/kis3/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
@@ -179,6 +178,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/zte/kis3/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/zte/kis3/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/zte/kis3/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zte/kis3/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/kis3/proprietary/bin/radish:system/bin/radish \
@@ -186,9 +186,14 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/zte/kis3/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/zte/kis3/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/zte/kis3/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/zte/kis3/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/zte/kis3/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
+    vendor/zte/kis3/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/zte/kis3/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/zte/kis3/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zte/kis3/proprietary/bin/thermal-engine:system/bin/thermal-engine \
