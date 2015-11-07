@@ -21,8 +21,6 @@ $(call inherit-product, vendor/zte/kis3/kis3-vendor-blobs.mk)
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
-    com.qualcomm.location \
-    com.qualcomm.services.location \
     qcrilmsgtunnel \
     shutdownlistener \
     TimeService
@@ -30,7 +28,6 @@ PRODUCT_PACKAGES += \
 # Prebuilt jars
 PRODUCT_PACKAGES += \
     com.google.widevine.software.drm \
-    com.qualcomm.location.vzw_library \
     qcnvitems \
     qcrilhook
 
