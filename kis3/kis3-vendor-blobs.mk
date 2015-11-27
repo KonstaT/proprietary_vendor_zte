@@ -123,16 +123,11 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/zte/kis3/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/zte/kis3/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
-    vendor/zte/kis3/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libmmparser.so:system/vendor/lib/libmmparser.so \
     vendor/zte/kis3/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/zte/kis3/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
     vendor/zte/kis3/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/zte/kis3/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/zte/kis3/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
-    vendor/zte/kis3/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/zte/kis3/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/zte/kis3/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/zte/kis3/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
