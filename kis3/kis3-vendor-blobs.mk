@@ -107,7 +107,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/zte/kis3/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/zte/kis3/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
-    vendor/zte/kis3/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/zte/kis3/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/zte/kis3/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/zte/kis3/proprietary/etc/quipc.conf:system/etc/quipc.conf \
