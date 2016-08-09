@@ -164,8 +164,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/zte/kis3/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/zte/kis3/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
-    vendor/zte/kis3/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
-    vendor/zte/kis3/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/zte/kis3/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/zte/kis3/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/zte/kis3/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
