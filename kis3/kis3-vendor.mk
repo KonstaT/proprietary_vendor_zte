@@ -166,6 +166,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/kis3/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/zte/kis3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/zte/kis3/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
+    vendor/zte/kis3/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/zte/kis3/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:system/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so \
     vendor/zte/kis3/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/zte/kis3/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
